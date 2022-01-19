@@ -1,0 +1,24 @@
+.startPage {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.question1  {
+    text-align: center;
+    margin-top: 100px;
+}
+.question2  {
+    text-align: center;
+    margin-top: 100px;
+}
+.question3  {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.hidden {
+    display: none;
+}
+#finalScore {
+    text-align: center;
+}
